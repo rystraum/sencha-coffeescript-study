@@ -1,2 +1,12 @@
 Sencha Touch App following this tutorial: http://miamicoder.com/2012/how-to-create-a-sencha-touch-2-app-part-1/
 but using coffeescript instead of regular javascript
+
+# Installation
+
+To use the compiler script (./cc):
+  Download source from: http://nodejs.org/dist/v0.6.15/node-v0.6.15.tar.gz and extract
+  cd node-v0.6.15
+  ./configure
+  make
+  sudo make install
+  npm install -g coffee-script
